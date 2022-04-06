@@ -19,8 +19,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Software engineering
-- Software development methodologies
-- Cinema
+- Development methodologies
+- Cybersecurity
 
 # Education to show in About widget
 education:
