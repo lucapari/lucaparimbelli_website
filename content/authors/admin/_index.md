@@ -25,10 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Master of Engineering (MEng) in Computer Engineering (in progress)
+  - course: Master of Engineering in Computer Engineering
     institution: Università degli studi di Bergamo
-    year: 2022
-  - course: Bachelor of Engineering (BEng) in Computer Engineering
+    year: 2022 (attending)
+  - course: Bachelor of Engineering in Computer Engineering
     institution: Università degli studi di Bergamo
     year: 2020
   - course: Italian Secondary School Diploma
