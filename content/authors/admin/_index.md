@@ -10,8 +10,8 @@ role: Computer Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Department of Computer Engineering, University of Bergamo
+  url: https://ls-ii.unibg.it/it
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
