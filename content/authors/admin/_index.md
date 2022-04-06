@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Master of Engineering (MEng) in Computer Engineering (in progress)
+    institution: Università degli studi di Bergamo
+    year: 2022
+  - course: Bachelor of Engineering (BEng) in Computer Engineering
+    institution: Università degli studi di Bergamo
+    year: 2020
+  - course: Italian Secondary School Diploma
+    institution: Liceo Scientifico "Giulio Natta" - Scientific High School, Applied Sciences option
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
