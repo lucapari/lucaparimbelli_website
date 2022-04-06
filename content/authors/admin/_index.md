@@ -32,7 +32,7 @@ education:
     institution: Università degli studi di Bergamo
     year: 2020
   - course: Italian Secondary School Diploma
-    institution: Liceo Scientifico "Giulio Natta" - Scientific High School, Applied Sciences option
+    institution: Liceo Scientifico "Giulio Natta"
     year: 2017
 
 # Social/Academic Networking
