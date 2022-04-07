@@ -65,6 +65,6 @@ email: ""
 highlight_name: true
 ---
 
-I’m a Computer Engineer and I am completing the final year of my Master’s degree in Computer Engineering at the University of Bergamo.
+I’m a Computer Engineer and I am attending the final year of my Master’s degree in Computer Engineering at the University of Bergamo.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1KYwYWXU_HDhd8ib93D18Y__DC6uZTXXo/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
