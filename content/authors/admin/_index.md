@@ -32,6 +32,9 @@ education:
   - course: Bachelor of Engineering in Computer Engineering
     institution: Università degli studi di Bergamo
     year: 2020
+  - course: Erasmus+ Semester
+    institution: VIA University College
+    year: 2019
   - course: Italian Secondary School Diploma
     institution: Liceo Scientifico "Giulio Natta"
     year: 2017
