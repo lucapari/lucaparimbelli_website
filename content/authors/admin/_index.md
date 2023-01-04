@@ -28,7 +28,10 @@ education:
   courses:
   - course: Master of Engineering in Computer Engineering
     institution: Università degli studi di Bergamo
-    year: 2022 (attending)
+    year: 2022
+  - course: International Summer School in "Continuous Delivery and DevOps"
+    institution: University of Southern Denmark
+    year: 2022
   - course: Bachelor of Engineering in Computer Engineering
     institution: Università degli studi di Bergamo
     year: 2020
