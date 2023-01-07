@@ -6,22 +6,22 @@ title: Luca Parimbelli
 superuser: true
 
 # Role/position/tagline
-role: Computer Engineer
+role: R&D Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Department of Computer Engineering, University of Bergamo
-  url: https://ls-ii.unibg.it/it
+- name: ABB
+  url: https://global.abb/group/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:
 
 # Interests to show in About widget
 interests:
 - Software engineering
 - Software architectures
+- DevOps
 - Development methodologies
-- Cybersecurity
 
 # Education to show in About widget
 education:
@@ -71,6 +71,6 @@ email: ""
 highlight_name: true
 ---
 
-I’m a Computer Engineer and I am attending the final year of my Master’s degree in Computer Engineering at the University of Bergamo.
+I am a Software Engineer driven by a strong passion for technology and an enthusiasm for the DevOps culture. I have a Master's degree in Computer Engineering from the University of Bergamo, where I graduated with full grades and honors. Currently, I am working at ABB, where I use cloud Azure technologies on a daily basis. I am constantly seeking to learn and explore new trends in technology, and I am excited to continue growing and developing my skills as a Software Engineer.
 
 {{< icon name="download" pack="fas" >}} Take a look at my {{< staticref "https://drive.google.com/file/d/1KYwYWXU_HDhd8ib93D18Y__DC6uZTXXo/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
