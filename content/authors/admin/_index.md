@@ -52,7 +52,7 @@ social:
   link: 'mailto:luca98.pa@gmail.com'
 - icon: github
   icon_pack: fab
-  link: https://github.com/lucaparimbelli
+  link: https://github.com/lucapari
 - icon: linkedin
   icon_pack: fab
   link: https://it.linkedin.com/in/luca-parimbelli-850679232?trk=public_profile_samename-profile
