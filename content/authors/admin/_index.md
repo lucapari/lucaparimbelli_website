@@ -6,12 +6,12 @@ title: Luca Parimbelli
 superuser: true
 
 # Role/position/tagline
-role: R&D Software Engineer
+role: 👨‍💻 Fullstack Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: ABB
-  url: https://global.abb/group/en
+- name: TheFork
+  url: https://www.thefork.it/
 
 # Short bio (displayed in user profile at end of posts)
 bio:
