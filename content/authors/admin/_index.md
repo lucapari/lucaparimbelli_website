@@ -71,6 +71,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a Software Engineer driven by a strong passion for technology and an enthusiasm for the DevOps culture. I have a Master's degree in Computer Engineering from the University of Bergamo, where I graduated with full grades and honors. Currently, I am working at ABB, where I use cloud Azure technologies on a daily basis. I am constantly seeking to learn and explore new trends in technology, and I am excited to continue growing and developing my skills as a Software Engineer.
+I am a Software Engineer driven by a strong passion for technology and an enthusiasm for the DevOps culture. I have a Master's degree in Computer Engineering from the University of Bergamo, where I graduated with full grades and honors. Currently, I am working at TheFork, where I explore new technologies on a daily basis. I am constantly seeking to learn, and I am excited to continue growing and developing my skills as a Software Engineer.
 
 {{< icon name="download" pack="fas" >}} Take a look at my {{< staticref "https://drive.google.com/file/d/1KYwYWXU_HDhd8ib93D18Y__DC6uZTXXo/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
